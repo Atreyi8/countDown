@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.timerbox {
+  height: 40px;
+  display: inline-block;
+  position: relative;
+  border: 1px solid black;
+  background-color: red;
+  border-radius: 4px;
+}
+
+.timer {
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.resetButton {
+  margin: 20px;
+  background-color: rgb(120, 200, 300);
+  border-radius: 2px;
+  border: 1px solid black;
+}
